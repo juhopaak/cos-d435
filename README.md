@@ -1,6 +1,7 @@
-Programming exercises for class "Data science and machine learning for social science."
+Programming exercises for the University of Helsinki course "Machine learning for social scientists."
 
-See [syllabus](https://opetus.mante.li/datascience/) for assigned readings for each method.
+See [syllabus](https://juhopaakkonen.net/opetus/datascience/spring-2024) for the assigned readings.
 
-The course has been organized
+The course is based on earlier implementation by Matti Nelimarkka, organized on
+* [Spring 2023, University of Helsinki](https://opetus.mante.li/datascience/courses/spring-2023)
 * [Spring 2020, University of Helsinki](https://opetus.mante.li/datascience/courses/spring-2020)
